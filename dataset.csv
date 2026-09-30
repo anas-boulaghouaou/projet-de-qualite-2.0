@@ -1,0 +1,11 @@
+ID,Date,Ligne_Production,Produit,Quantite_Inspectee,Defauts_Trouves,Statut,Inspecteur
+1,2026-09-01,Ligne A,Bloc Moteur V6,150,2,Conforme,Karim Bennani
+2,2026-09-02,Ligne B,Transmissions 4WD,200,12,Alerte,Sarah Alami
+3,2026-09-03,Ligne C,Boîte Automatique,120,0,Conforme,Youssef Mansouri
+4,2026-09-04,Ligne D,Pompe à Injection,180,25,Non Conforme,Karim Bennani
+5,2026-09-05,Ligne A,Bloc Moteur V6,160,4,Conforme,Sarah Alami
+6,2026-09-06,Ligne B,Transmissions 4WD,210,18,Alerte,Youssef Mansouri
+7,2026-09-07,Ligne C,Boîte Automatique,130,1,Conforme,Karim Bennani
+8,2026-09-08,Ligne D,Pompe à Injection,175,30,Non Conforme,Sarah Alami
+9,2026-09-09,Ligne A,Bloc Moteur V6,155,3,Conforme,Youssef Mansouri
+10,2026-09-10,Ligne B,Transmissions 4WD,190,8,Conforme,Karim Bennani
